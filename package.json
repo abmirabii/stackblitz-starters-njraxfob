@@ -15,5 +15,11 @@
     "viem": "latest",
     "@rainbow-me/rainbowkit": "latest",
     "@tanstack/react-query": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
   }
 }
